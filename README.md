@@ -16,12 +16,12 @@
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+<!--           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"> -->
           <br/><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
+<!--           <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"> -->
           <br/><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
           </div>
     </div>
