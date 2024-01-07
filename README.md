@@ -43,7 +43,10 @@
     <div>
         <div align= "center"> 
             <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Velog Blograss </h2> 
+            Daily
             <img src="https://blograss-weld.vercel.app/api?name=dev-smile" />  
+            Weekly
+            <img src="https://blograss-weld.vercel.app/api?type=weekly&name=dev-smile" />  
         </div> 
     </div>
     
