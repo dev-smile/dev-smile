@@ -45,11 +45,11 @@
             <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Velog Blograss </h2> 
             Daily
             <br>
-            <img src="https://blograss-weld.vercel.app/api?name=dev-smile" />  
+            <img src="https://blograss-weld.vercel.app/api?name=dev-smile&year=2023" />  
             <br>
             Weekly
             <br>
-            <img src="https://blograss-weld.vercel.app/api?type=weekly&name=dev-smile" />  
+            <img src="https://blograss-weld.vercel.app/api?type=weekly&name=dev-smile&year=2023" />  
         </div> 
     </div>
     
