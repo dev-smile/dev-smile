@@ -52,7 +52,7 @@
             <br>
             <img src="https://blograss-weld.vercel.app/api?name=dev-smile&year=2024" />  
             <br> -->
-            Weekly
+<!--             Weekly -->
             <br>
             <img src="https://blograss-weld.vercel.app/api?type=weekly&name=dev-smile&year=2024" />  
         </div> 
