@@ -7,7 +7,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+    <div style="margin: 0 auto; text-align: center;" align="center"> 
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
 <!--           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"> -->
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
@@ -40,21 +40,17 @@
     </div> -->
     <div align= "center"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-        <div align= "center "> 
+        <div> 
             <img src="https://github-readme-stats.vercel.app/api?username=dev-smile&bg_color=180,000000,&title_color=000000&text_color=000000" /> 
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-smile&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" /> 
         </div> 
     </div>
     <div>
         <div align= "center"> 
-            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Velog Blograss </h2> 
-<!--             Daily
-            <br>
-            <img src="https://blograss-weld.vercel.app/api?name=dev-smile&year=2024" />  
-            <br> -->
-<!--             Weekly -->
+            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Blogging </h2> 
             <br>
             <img src="https://blograss-weld.vercel.app/api?type=weekly&name=dev-smile&year=2024" />  
+            <img src="https://velog-github-badge.vercel.app/badge/dev-smile" />
         </div> 
     </div>
     
