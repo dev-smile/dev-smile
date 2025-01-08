@@ -49,7 +49,7 @@
         <div align= "center"> 
             <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Blogging </h2> 
             <br>
-            <img src="https://blograss-weld.vercel.app/api?type=weekly&name=dev-smile&year=2024" />  
+            <img src="https://blograss-weld.vercel.app/api?type=weekly&name=dev-smile&year=2025" />  
             <img src="https://velog-github-badge.vercel.app/badge/dev-smile" />
         </div> 
     </div>
